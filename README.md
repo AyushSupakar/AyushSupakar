@@ -1,5 +1,5 @@
 # 💫 About Me:
-😎 Hi! I am a Software Developer and a 3D Artist.<br><br>😇 I have built 9️⃣ projects.<br><br>🫡 I have woked with MERN Stack, AWS and Blender.<br><br>🤩 I am also profiecient in Java and DSA Concepts.<br><br>🤓 I am a Grdaute from NIT, Rourkela.
+😎 Hi! I am a Software Developer and a 3D Artist.<br><br>😇 I have built 9️⃣ projects.<br><br>🫡 I have woked with MERN Stack, AWS and Blender.<br><br>🤩 I am also profiecient in Java and DSA Concepts.<br><br>🤓 I am a Gradaute from NIT, Rourkela.
 
 
 ## 🌐 Socials:
