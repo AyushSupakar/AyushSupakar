@@ -1,9 +1,10 @@
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="75" height="75" />
 
 # 💫 About Me:
 😎 Hi! I am a Software Developer and a 3D Artist.<br><br>😇 I have built 9️⃣ projects.<br><br>🫡 I have woked with MERN Stack, AWS and Blender.<br><br>🤩 I am also profiecient in Java and DSA Concepts.<br><br>🤓 I am a Gradaute from NIT, Rourkela.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" />
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-anshuman-supakar-4b71681b8) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@ataleofscience5027) 
 
