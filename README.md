@@ -1,3 +1,12 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AyushSupakar.AyushSupakar" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayush+Supakar!;" />
+</h1>
+
+<h3 align="center">A passionate software developer</h3>
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="75" height="75" />
 
