@@ -1,14 +1,12 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AyushSupakar.AyushSupakar" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayush+Supakar!;" />
 </h1>
 
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center"> 🎊 Welcome to my Github Page 🎊 </h3>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="75" height="75" />
+<div align="center"><img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="75" height="75" /></div> 
 
 # 💫 About Me:
 😎 Hi! I am a Software Developer and a 3D Artist.<br><br>😇 I have built 9️⃣ projects.<br><br>🫡 I have woked with MERN Stack, AWS and Blender.<br><br>🤩 I am also profiecient in Java and DSA Concepts.<br><br>🤓 I am a Gradaute from NIT, Rourkela.
@@ -33,9 +31,13 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AyushSupakar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## Watch snake eating my github contributions 
- 
-![snake animation](https://github.com/<seu AyushSupakar>/<seu AyushSupakar>/blob/output/github-contribution-grid-snake2.svg)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 
 ---
