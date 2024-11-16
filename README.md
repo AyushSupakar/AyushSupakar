@@ -8,6 +8,19 @@
 
 <div align="center"><img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="75" height="75" /></div> 
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyushSupakar/AyushSupakar/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyushSupakar/AyushSupakar/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AyushSupakar/AyushSupakar/output/github-contribution-grid-snake.svg">
+</picture>
+  <br/><br/><br/>
+</div>
+
+
+
 # 💫 About Me:
 😎 Hi! I am a Software Developer and a 3D Artist.<br><br>😇 I have built 9️⃣ projects.<br><br>🫡 I have woked with MERN Stack, AWS and Blender.<br><br>🤩 I am also profiecient in Java and DSA Concepts.<br><br>🤓 I am a Gradaute from NIT, Rourkela.
 
