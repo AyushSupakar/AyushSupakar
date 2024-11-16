@@ -26,7 +26,7 @@
 
 ## Watch snake eating my github contributions 
  
-![snake_gif](https://github.com/AyushSupakar/AyushSupakar/blob/output/github-snake-dark.svg)
+![snake animation](https://github.com/<seu AyushSupakar>/<seu AyushSupakar>/blob/output/github-contribution-grid-snake2.svg)
 
 
 ---
