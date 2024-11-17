@@ -25,10 +25,10 @@ h3 align="left">Languages and Tools:</h3>
 -->
 
 ## <div align="center"> <h2>💫 About Me 💫 </h2> 😎 I am a Software Developer and a 3D Artist.<br><br>🤓 I am a Gradaute from NIT, Rourkela.<br><br>😇 I have built <b>1️⃣0️⃣</b> different projects.<br><br>🫡 I have woked with SpringBoot, MERN Stack, AWS and Blender.<br><br>🤩 I am also profiecient in DSA and Competitive Programming.<br></div>
-
+<br>
 
 ## <div align="center"><h2>🌐 My Socials 🌐</h2>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-anshuman-supakar-4b71681b8) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@ataleofscience5027) </div> 
-
+<br>
 
 
 ## <div align="center"><h2>📊 My GitHub Stats 📊</h2>![](https://github-readme-stats.vercel.app/api?username=AyushSupakar&theme=aura&hide_border=false&include_all_commits=true&count_private=true)![](https://github-readme-streak-stats.herokuapp.com/?user=AyushSupakar&theme=aura&hide_border=false)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSupakar&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
